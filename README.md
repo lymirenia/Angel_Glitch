@@ -1,6 +1,6 @@
 # ANGEL GLITCH v2.1
 
-> Эстетичный глитч-редактор изображений в стиле Angel Core (белый + кроваво-красный)
+> Эстетичный глитч-редактор изображений в стиле Angel Core 
 
 ![Angel Glitch Preview](img/preview.png)
 
