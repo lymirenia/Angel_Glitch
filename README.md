@@ -2,7 +2,7 @@
 
 > Эстетичный глитч-редактор изображений в стиле Angel Core (белый + кроваво-красный)
 
-![Angel Glitch Preview](preview.png)
+![Angel Glitch Preview](img/preview.png)
 
 ## ✨ О проекте
 
